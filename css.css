@@ -1,0 +1,40 @@
+.body{
+    margin: 0px;
+}
+
+.div1{
+    background-color: rgb(194, 154, 221);
+
+}
+.link{
+    display: inline-block;
+    color: aliceblue;
+    padding: 30px;
+    text-decoration: none;
+    font-family: "Josefin Sans";
+    font-weight: 700;
+}
+.link:hover{
+    background-color: rgb(205, 176, 238);
+}
+.div2{
+    background-color: rgb(226, 230, 182);
+
+}
+.link1{
+    font-size: 25px;
+    display: inline-block;
+    color: black;
+    padding: 30px;
+    text-decoration: none;
+    font-family: 'Amatic SC', cursive;
+    font-weight: 400;
+}
+.link1:hover{
+    background-color: rgb(211, 206, 145);
+}
+.p1{
+    font-family: "lobster";
+    padding: 20px 20px 20px 20px ;
+}
+
